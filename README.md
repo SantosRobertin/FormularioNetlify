@@ -1,30 +1,35 @@
-<h1 align="center">
-  Formulário HTML e CSS + Netlify Forms
-</h1>
+<h1 align="center"> Formulário + Netlify </h1>
 
 <p align="center">
-  <img src=".github/preview.png" width="100%" />
+Roberto Santos <br/>
+Desenvolvedor Web</h3>
 </p>
 
-## 💻 Projeto
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-Este projeto é um desenvolvimento de um formulário utilizando _HTML_ e _CSS_. O formulário criado será integrado com a funcionalidade [Netlify Forms] que permitirá o armazenamento das informações enviadas através dele.
+<br>
+
+<p align="center">
+  <img alt="Formulário + Netlify " src=".github/preview.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
-- HTML
-- CSS
-- [Netlify](https://www.netlify.com/)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## 📔 Conhecimentos abordados
+✅ Uso semântico do HTML
+✅ CSS
+✅ JS
+✅ Git
 
-- [x] Uso semântico do HTML
-- [x] Criação de animação de sucesso
-- [x] Váriaveis do css no `:root`
-- [x] Integração com a funcionalide [Netlify Form](https://www.netlify.com/products/forms/)
-- [x] Efeito de focus no input
-- [x] Armazenar informações do formulário
-- [x] Deploy no Netlify
+<br>
+
+## 💻 Projeto
+
+Esse projeto foi desenvolvido como prática em meus conhecimentos em desenvolvimento front-end.
 
 <br>
 
